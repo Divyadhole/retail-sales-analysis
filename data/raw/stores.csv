@@ -1,0 +1,11 @@
+store,region,tier,size,opened
+NYC-Manhattan,Northeast,Premium,Large,2018
+NYC-Brooklyn,Northeast,Standard,Medium,2019
+LA-Downtown,West,Premium,Large,2017
+LA-Pasadena,West,Standard,Medium,2020
+Chicago-Loop,Midwest,Standard,Large,2016
+Chicago-Oak Park,Midwest,Budget,Small,2021
+Houston-Galleria,South,Premium,Large,2018
+Houston-Heights,South,Standard,Medium,2019
+Phoenix-Central,Southwest,Standard,Medium,2020
+Miami-Brickell,Southeast,Premium,Large,2019

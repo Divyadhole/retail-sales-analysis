@@ -1,0 +1,101 @@
+product,category,base_price,target_margin,return_rate
+iPhone Case,Electronics,320,0.22,0.12
+Bluetooth Speaker,Electronics,320,0.22,0.12
+Laptop Stand,Electronics,320,0.22,0.12
+USB-C Hub,Electronics,320,0.22,0.12
+Smart Watch,Electronics,320,0.22,0.12
+Wireless Earbuds,Electronics,320,0.22,0.12
+Tablet Cover,Electronics,320,0.22,0.12
+Gaming Mouse,Electronics,320,0.22,0.12
+Webcam HD,Electronics,320,0.22,0.12
+Power Bank,Electronics,320,0.22,0.12
+Casual T-Shirt,Clothing,65,0.55,0.18
+Slim Jeans,Clothing,65,0.55,0.18
+Winter Jacket,Clothing,65,0.55,0.18
+Running Shoes,Clothing,65,0.55,0.18
+Dress Shirt,Clothing,65,0.55,0.18
+Yoga Pants,Clothing,65,0.55,0.18
+Baseball Cap,Clothing,65,0.55,0.18
+Knit Sweater,Clothing,65,0.55,0.18
+Sneakers,Clothing,65,0.55,0.18
+Leather Belt,Clothing,65,0.55,0.18
+Throw Pillow,Home & Garden,85,0.42,0.08
+Candle Set,Home & Garden,85,0.42,0.08
+Picture Frame,Home & Garden,85,0.42,0.08
+Garden Hose,Home & Garden,85,0.42,0.08
+Herb Planter,Home & Garden,85,0.42,0.08
+Wall Clock,Home & Garden,85,0.42,0.08
+Storage Basket,Home & Garden,85,0.42,0.08
+Table Lamp,Home & Garden,85,0.42,0.08
+Door Mat,Home & Garden,85,0.42,0.08
+Plant Stand,Home & Garden,85,0.42,0.08
+Yoga Mat,Sports,95,0.38,0.07
+Resistance Bands,Sports,95,0.38,0.07
+Water Bottle,Sports,95,0.38,0.07
+Jump Rope,Sports,95,0.38,0.07
+Foam Roller,Sports,95,0.38,0.07
+Gym Gloves,Sports,95,0.38,0.07
+Running Belt,Sports,95,0.38,0.07
+Protein Shaker,Sports,95,0.38,0.07
+Fitness Tracker,Sports,95,0.38,0.07
+Knee Brace,Sports,95,0.38,0.07
+Face Moisturizer,Beauty,38,0.62,0.05
+Lip Gloss,Beauty,38,0.62,0.05
+Eye Shadow,Beauty,38,0.62,0.05
+Hair Serum,Beauty,38,0.62,0.05
+Face Mask,Beauty,38,0.62,0.05
+Nail Polish,Beauty,38,0.62,0.05
+Perfume,Beauty,38,0.62,0.05
+Foundation,Beauty,38,0.62,0.05
+Mascara,Beauty,38,0.62,0.05
+Toner,Beauty,38,0.62,0.05
+LEGO Set,Toys & Games,45,0.45,0.09
+Board Game,Toys & Games,45,0.45,0.09
+Action Figure,Toys & Games,45,0.45,0.09
+Puzzle 1000pc,Toys & Games,45,0.45,0.09
+Stuffed Animal,Toys & Games,45,0.45,0.09
+Card Game,Toys & Games,45,0.45,0.09
+Remote Car,Toys & Games,45,0.45,0.09
+Art Set,Toys & Games,45,0.45,0.09
+Science Kit,Toys & Games,45,0.45,0.09
+Doll House,Toys & Games,45,0.45,0.09
+Organic Coffee,Food & Grocery,28,0.28,0.02
+Green Tea,Food & Grocery,28,0.28,0.02
+Protein Bar,Food & Grocery,28,0.28,0.02
+Trail Mix,Food & Grocery,28,0.28,0.02
+Olive Oil,Food & Grocery,28,0.28,0.02
+Hot Sauce,Food & Grocery,28,0.28,0.02
+Granola,Food & Grocery,28,0.28,0.02
+Coconut Oil,Food & Grocery,28,0.28,0.02
+Dark Chocolate,Food & Grocery,28,0.28,0.02
+Vitamins,Food & Grocery,28,0.28,0.02
+Bestseller Novel,Books & Media,22,0.35,0.04
+Self-Help Book,Books & Media,22,0.35,0.04
+Cookbook,Books & Media,22,0.35,0.04
+Children's Book,Books & Media,22,0.35,0.04
+Biography,Books & Media,22,0.35,0.04
+Business Book,Books & Media,22,0.35,0.04
+Art Book,Books & Media,22,0.35,0.04
+Travel Guide,Books & Media,22,0.35,0.04
+Journal,Books & Media,22,0.35,0.04
+Gift Card,Books & Media,22,0.35,0.04
+Coffee Table,Furniture,420,0.48,0.06
+Bookshelf,Furniture,420,0.48,0.06
+Office Chair,Furniture,420,0.48,0.06
+Bedside Table,Furniture,420,0.48,0.06
+TV Stand,Furniture,420,0.48,0.06
+Desk Organizer,Furniture,420,0.48,0.06
+Bar Stool,Furniture,420,0.48,0.06
+Floor Mirror,Furniture,420,0.48,0.06
+Shoe Rack,Furniture,420,0.48,0.06
+Bean Bag,Furniture,420,0.48,0.06
+Car Air Freshener,Auto Parts,110,0.32,0.05
+Phone Mount,Auto Parts,110,0.32,0.05
+Dash Cam,Auto Parts,110,0.32,0.05
+Tire Gauge,Auto Parts,110,0.32,0.05
+Jump Starter,Auto Parts,110,0.32,0.05
+Car Seat Cover,Auto Parts,110,0.32,0.05
+Steering Wheel Cover,Auto Parts,110,0.32,0.05
+GPS Device,Auto Parts,110,0.32,0.05
+Car Vacuum,Auto Parts,110,0.32,0.05
+Oil Filter,Auto Parts,110,0.32,0.05
